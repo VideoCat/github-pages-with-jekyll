@@ -7,4 +7,4 @@ GitHub has many short instructions on how to deal with errors and problems and r
 I know that the site that maintains the custom domain are all very different, so they need to be dealt with individually. however, I need to know how to 
 initialize the GitHub site to be ready to be used...
 
-
+theme:minima
